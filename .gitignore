@@ -1,1 +1,5 @@
-*.exe
+# Ignore All
+*
+
+# Unignore section
+!*.c
